@@ -1,0 +1,14 @@
+# Luz Vision | AI for visually impaired and blinds.
+version: '3.4'
+services:
+  luz_vision:
+    container_name: luz_vision
+    build : .
+    volumes : 
+     - ../scripts:/scripts
+    restart: always
+    ports:
+     - 5002:5002
+#     entrypoint : "/bin/bash"
+#     stdin_open: true
+#     tty: true

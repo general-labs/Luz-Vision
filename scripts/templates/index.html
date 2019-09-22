@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+	<meta charset="utf-8">
+	<meta name="description" content="WebRTC code samples">
+	<meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
+	<meta itemprop="description" content="Client-side WebRTC code samples">
+	<meta itemprop="image" content="../../../images/webrtc-icon-192x192.png">
+	<meta itemprop="name" content="WebRTC code samples">
+	<meta name="mobile-web-app-capable" content="yes">
+	<meta id="theme-color" name="theme-color" content="#ffffff">
+	<title> Luz Vision </title>
+
+	<base target="_blank">
+
+	<link href="//fonts.googleapis.com/css?family=Roboto:300,400,500,700" rel="stylesheet" type="text/css">
+	<link rel="stylesheet" href="css/main.css?cache_bust=322298">
+
+</head>
+
+<body>
+
+	<div id="container">
+
+		<div align = "center">
+					<h2> Luz Vision <span id = "object_data" class = "object_info"></span></h2>
+			<button id="find_object" class="btn_large_one">Explain me</button>
+			<button id="detect_object" class="btn_large_one">What is it?</button>
+		</div>
+
+		
+		<video playsinline autoplay></video>
+		<button id = "capture_shot">Take snapshot</button> <button id="burst_shot">Take Burstshot</button>
+		<canvas></canvas>
+		<input type="text" id="text_to_speech" value="">
+	</div>
+
+	<script src="https://code.jquery.com/jquery-3.4.1.min.js"
+		integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+
+
+	<script src="https://webrtc.github.io/adapter/adapter-latest.js"></script>
+	<script src="js/main.js?009449987" async></script>
+</body>
+
+</html>
