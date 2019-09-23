@@ -4,7 +4,7 @@
 #### Artificial Intelligence (AI) in Assistive Technology.
 
 #### Goal
-The goal of this project is to see how technology can redefine the limitation or boundary of visually impaired or blinds. It's a baby step to integrate AI into assistive technology. The ultimate goals is to make a small tiny device that can act as a virtual assistant using AI.
+The goal of this project is to see how technology can redefine the limitation or boundary of visually impaired or blind. It's a baby step to integrate AI into assistive technology. The ultimate goals is to make a small tiny device that can act as a virtual assistant using AI.
 
 ##### Option 1: Web RTC + AI ([DEMO](https://youtu.be/JLI_p2d0C-s))
 
