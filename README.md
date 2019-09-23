@@ -1,5 +1,5 @@
 # Luz-Vision
-## A world made with words for those visually impaired or blinds. 
+## A world made with words for those visually impaired or blind. 
 
 #### Artificial Intelligence (AI) in Assistive Technology.
 
